@@ -1,2 +1,3 @@
 1. Shape of light engine is same as the shape of the display unit. For example if the display unit is circular the light engine will be of circular shape. or if the display unit is trapezoid than the light engine is trapezoid as well.
 2. Shape of light engine is same as the shape of display unit as viewed by the light engine. For example if the display unit is circular reflective surface will appear oval to a light engine mounted to display unit's side. And hence to cover maximum space of display unit, the shape of light projected by light engine is oval too. 
+3. Use of optical fiber to transmit lights from Light engine to display unit. For example: https://www.youtube.com/shorts/UUQDTMEE4uU
