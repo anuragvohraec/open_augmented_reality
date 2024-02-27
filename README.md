@@ -1,2 +1,2 @@
 # Open Augmented Reality: Goal
-Put new augmentd relaity ideas in public domain.
+Put new augmented reality ideas in public domain.
